@@ -24,5 +24,5 @@ This repository contains a Python script that automates the process of creating 
 
 1. **Clone the repository**:
    ```bash
-   
+   git clone https://github.com/jasontt33/automated-ami-build.git
    cd custom-ubuntu-ami
